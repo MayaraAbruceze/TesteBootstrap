@@ -1,0 +1,61 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 100px;
+}
+
+.navbar{
+    background-color: yellow;
+    width: 100%;
+    position: fixed;
+    overflow: auto;
+    top: 0;    
+}
+
+.navbar a{
+    float: left;
+    display: block;
+}
+
+.quem-somos{    
+    font-size: 20px;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.collapse{
+    justify-content: flex-end;
+}
+
+.container-fluid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 85%;
+}
+
+.titulo{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.descricao{
+    text-align: justify;
+}
+
+.rounded-circle{
+    padding-right: 30px;
+}
+
+.rodape{
+    border-top: 1px solid slategray;
+    height: 100px;
+}
+
+.texto-rodape{
+    padding-top: 30px;
+}
+
+ 
